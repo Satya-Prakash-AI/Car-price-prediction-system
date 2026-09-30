@@ -2,7 +2,7 @@
 
 A machine learning-based web application that predicts the price of a car based on its features. The project uses data preprocessing, exploratory data analysis, feature encoding, and regression models to build an accurate car price prediction system.
 
-## 🚀 Features
+## Features
 
 - Exploratory Data Analysis (EDA)
 - Data preprocessing and feature encoding
@@ -18,7 +18,7 @@ A machine learning-based web application that predicts the price of a car based 
 - Interactive Streamlit web application
 - Saved trained XGBoost model using Joblib
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -30,7 +30,7 @@ A machine learning-based web application that predicts the price of a car based 
 - Joblib
 - Streamlit
 
-## 📊 Dataset
+## Dataset
 
 The project uses a Ford car dataset containing features such as:
 
@@ -47,7 +47,7 @@ The target variable is:
 
 - Price
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The project experiments with:
 
